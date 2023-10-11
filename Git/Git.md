@@ -154,3 +154,5 @@ New standards for keys need to be better than rsa (comment = email usually. Leav
 ssh-keygen -t ecdsa -b 521 -C <comment>
 or
 ssh-keygen -t ed25519 -C <comment>
+
+b
